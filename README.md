@@ -100,85 +100,107 @@ Pada menu utama Admin terdapat 7 pilihan yang dapat Admin pilih sesuai kebutuhan
 data apabila memilih tiga(3), menghapus data apabila memilih empat(4), mencari data apabila memilih lima(5), mengurutkan data apabila memilih dua(6), dan keluar apabila memilih 
 tujuh(7).
 
-**_Pilih satu(1)_**
+**a. Pilih satu (Menambah UMKM)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/1173cb35-c75e-419b-aabf-0ed670df46d7)
 
-Admin dapat menambahkan UMKM dengan memasukkan ID UMKM baru, Nama Usaha, Bidang Usaha, Produk Usaha, Slot Karyawan, Alamat Usaha, dan Nomor Telp UMKM. setelah itu user bisa menekan enter dan UMKM baru telah berhasil ditambahkan kedalam database.
+Admin dapat menambahkan UMKM dengan memasukkan **ID UMKM, Nama Usaha, Bidang Usaha, Produk Usaha, Slot Karyawan, Alamat Usaha, dan Nomor Telp UMKM**. setelah itu user bisa menekan enter dan UMKM baru telah berhasil ditambahkan kedalam database.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/1a7a37f9-1c73-4a08-b62d-ab2923d086ac)
 
-Program akan menampilkan data UMKM baru yang baru saja di tambahkan, Admin juga dapat menambahkan UMKM baru dengan menginputkan y pada program dan menginputkan n jika tidak ingin menambahkan UMKM lagi. kemudian jika user memilih n, Admin akan diarahkan ke menu awal kembali.
+Program akan menampilkan data UMKM baru yang baru saja di tambahkan, Admin juga dapat menambahkan UMKM baru dengan menginputkan **y** pada program dan menginputkan **n** jika tidak ingin menambahkan UMKM lagi. kemudian jika user memilih n, Admin akan diarahkan ke menu awal kembali.
     
-**_Pilih dua(2)_**
+**b. Pilih dua(Memeriksa Data)**
 
 Pada menu memeriksa data terdapat 5 pilihan yang dapat Admin pilih sesuai kebutuhannya yaitu memeriksa data Workshop apabila memilih satu(1), memeriksa data Anggota apabila memilih dua(2), memeriksa data UMKM apabila memilih tiga(3), memeriksa Pendanaan Program apabila memilih empat(4), dan keluar apabila memilih tujuh(5).
 
 **1. Memeriksa Data Workshop**
+
+Program akan menampilkan Keseluruhan data dari Workshop.
    
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/16c7a5b1-cbe6-4999-b7ae-88219b78ab8d)
 
 **2. Memeriksa Data Anggota**
 
+Program akan menampilkan Keseluruhan data dari Anggota.
+
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/e17f231e-9e17-4fce-a760-4757f2b90a34)
 
 **3. Memeriksa Data UMKM**
 
+Program akan menampilkan Keseluruhan data dari UMKM. 
+
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/abf26b37-6c39-452d-9d29-2b23a1f72b94)
 
 **4. Memeriksa Pendanaan Program**
+
+Program akan menampilkan Keseluruhan data dari Pendanaan Program dari Pemerintah.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/d19b4ae1-c977-40cd-af40-53dfd1eb720b)
 
 **5. Keluar**
 Program akan mengarahkan Admin ke menu utama admin kembali.
 
-**_Pilih tiga(3)_**
+**c. Pilih tiga(Memperbarui Data)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/8fe9e995-7c22-4b39-bca6-5d3719117831)
 
 Pada menu memperbarui data terdapat 4 pilihan yang dapat Admin pilih sesuai kebutuhannya yaitu memperbarui data Workshop apabila memilih satu(1), memperbarui data Anggota apabila memilih dua(2), memperbarui data UMKM apabila memilih tiga(3), keluar apabila memilih empat(4).
+
 **1. Memperbarui Data Workshop**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/140c4f41-5645-4fbd-a7e1-3b9c007c768f)
 
+Untuk memperbarui Data Workshop, Admin perlu menginputkan **ID Workshop, Nama Lembaga, Waktu Operasional, Alamat Workshop dan No.Telp**. setelah data diinputkkan Admin dapat menekan enter dan data telah diperbarui.
+
+berikut ini adalah tampilan Data Workshop yang telah diperbarui dengan data sebelumnya.
+
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/fd033299-a25d-45c1-a419-d62f70b518c1)
+
 
 **2. Memperbarui Data Anggota**
 
+Untuk memperbarui Data Anggota, Admin perlu menginputkan** ID Anggota, Nama, Gender, TTL, Alamat dan No.Hp**. setelah data diinputkkan Admin dapat menekan enter dan data telah diperbarui.
+
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/eb51f923-1130-4d4b-a059-fa54d5d8895a)
+
+berikut ini adalah tampilan Data Anggota yang telah diperbarui dengan data sebelumnya.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/bbc1dc89-84d3-42db-84f8-17009b37c2e7)
 
 **3. Memperbarui Data UMKM**
 
+Untuk memperbarui Data UMKM, Admin perlu menginputkan **ID UMKM, Nama Usaha, Bidang Usaha, Produk Usaha, Slot Karyawan, Alamat, dan No.Telp**. setelah data diinputkkan Admin dapat menekan enter dan data telah diperbarui.
+
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/89965202-7935-4e91-af3d-1765096c6a4e)
+
+berikut ini adalah tampilan Data UMKM yang telah diperbarui dengan data sebelumnya.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/24b8ebe8-3429-4eb7-a2b1-b1b04e8f1e90)
 
 **4. Keluar**
 Program akan mengarahkan Admin ke menu utama admin kembali.
 
-**_Pilih empat(4)_**
+**d. Pilih empat(Menghapus Data)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/dfd560ee-2e22-47e6-a8ac-aff057477585)
 
 Pada menu menghapus data terdapat 4 pilihan yang dapat Admin pilih sesuai kebutuhannya yaitu menghapus data Workshop apabila memilih satu(1), menghapus data Anggota apabila memilih dua(2), menghapus data UMKM apabila memilih tiga(3), keluar apabila memilih empat(4).
 
-untuk menghapus data workshop, anggota dan pemerintah. Admin cukup menginputkan ID, seperti berikut ini.
+untuk menghapus data workshop, anggota dan pemerintah. Admin cukup **menginputkan ID**, seperti berikut ini.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/97b9da8a-1d39-4642-a4c0-de8bfc4a4f2a)
 
-**_Pilih lima(5)_**
+**e. Pilih lima(Mencari Data)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/eb56d1d8-8afc-411e-b51e-80eecdc6b12e)
 
 Pada menu mencari data terdapat 4 pilihan yang dapat Admin pilih sesuai kebutuhannya yaitu mencari data Workshop apabila memilih satu(1), mencari data Anggota apabila memilih dua(2), mencari data UMKM apabila memilih tiga(3), keluar apabila memilih empat(4).
 
-untuk menghapus data workshop, anggota dan pemerintah. Admin cukup menginputkan ID, seperti berikut ini.
+untuk mencari data workshop, anggota dan pemerintah. Admin cukup menginputkan ID, seperti berikut ini.
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/246f19c6-946f-4241-96d4-e6171c5fa03a)
 
-**_Pilih enam(6)_**
+**f. Pilih enam(Mengurutkan Data)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/db1f13ec-07e7-4d59-81d1-70607d09d00c)
 
@@ -190,10 +212,10 @@ didalam menu pengurutan data terdapat pilihan untuk mengurutkan data secara asce
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/94b5b375-25e9-42b6-b895-a169e2ab51c3)
 
-**_Pilih tujuh(7)_**
-
+**g. Pilih tujuh(Keluar)**
 Program akan mengarahkan Admin ke menu login program.
 
+-------------------------------------------------------------------------------------------------
 ### Apabila Pengguna Adalah Anggota
 **- Menu Awal Anggota**
 
@@ -210,7 +232,7 @@ Apabila pengguna adalah Anggota, pengguna dapat memilih angka satu(1) dengan men
 
 Pada menu utama Anggota terdapat 3 pilihan yang dapat Admin pilih sesuai kebutuhannya yaitu mendaftar UMKM apabila memilih satu(1), mendaftar Workshop apabila memilih dua(2), memeriksa data diri apabila memilih tiga(3), dan keluar apabila memilih empat(4).
 
-**_Pilih satu(1)_**
+**a. Pilih satu (Mendaftar UMKM)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/41857509-c459-43ea-b787-cdc59f80adda)
 
@@ -218,7 +240,7 @@ setelah menginputkan y maka program akan memberikan output seperti ini
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/bd893398-5393-442a-ba25-9c923cc7404c)
 
-**_Pilih dua(2)_**
+**b. Pilih dua(Mendaftar Workshop)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/9c91cacf-05a9-4c7c-ba89-4bcc9f703c6b)
 
@@ -226,11 +248,11 @@ setelah menginputkan y maka program akan memberikan output seperti ini
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/cf53750a-f550-4670-b50a-f4ddc0de9009)
 
-**_Pilih tiga(3)_**
+**Pilih tiga(Memeriksa Data Diri)**
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/198a49e6-a033-4529-b669-a0ee7c4ce9ce)
 
-**_Pilih empat(4)_**
+**Pilih empat(Keluar)**
 
 Program akan mengarahkan Admin ke menu awal anggota.
 
