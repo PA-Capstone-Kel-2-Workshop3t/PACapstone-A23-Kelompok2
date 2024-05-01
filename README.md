@@ -221,10 +221,19 @@ Program akan mengarahkan Admin ke menu login program.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/1963d18a-44c2-4f6c-86a5-890a232daa15)
 
-- Apabila User Login
+**a. Apabila User Login**
+
 Apabila pengguna adalah Anggota, pengguna dapat memilih angka satu(1) dengan menginputkannya didalam program untuk masuk kedalam menu utama Anggota. setelah pengguna menginputkan pilihannya, pengguna akan diarahkan program pada bagian login untuk admin yaitu dengan **memasukkan ID Anggota dan Password Akun Anggota**.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/ee204913-a8f5-48e5-974d-5c603e6c52e5)
+
+**b. Apabila User Registrasi**
+
+![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/d81a1908-89e1-477b-9a05-a42ddae6037f)
+
+**c. Apabila User Kembali**
+
+Program akan mengarahkan Admin ke menu Login Program.
 
 **- Menu Utama Anggota**
 
@@ -256,9 +265,3 @@ setelah menginputkan y maka program akan memberikan output seperti ini
 
 Program akan mengarahkan Admin ke menu awal anggota.
 
-- Apabila User Registrasi
-
-![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/d81a1908-89e1-477b-9a05-a42ddae6037f)
-
-- Apabila User Kembali
-Program akan mengarahkan Admin ke menu Login Program.
