@@ -231,6 +231,7 @@ setelah menginputkan y maka program akan memberikan output seperti ini
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/198a49e6-a033-4529-b669-a0ee7c4ce9ce)
 
 **_Pilih empat(4)_**
+
 Program akan mengarahkan Admin ke menu awal anggota.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/6b0a2d7b-353a-4250-9f06-b8495cf2296e)
