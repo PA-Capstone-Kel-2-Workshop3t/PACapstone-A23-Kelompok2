@@ -213,6 +213,7 @@ didalam menu pengurutan data terdapat pilihan untuk mengurutkan data secara asce
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/94b5b375-25e9-42b6-b895-a169e2ab51c3)
 
 **g. Pilih tujuh(Keluar)**
+
 Program akan mengarahkan Admin ke menu login program.
 
 -------------------------------------------------------------------------------------------------
@@ -258,6 +259,8 @@ setelah menginputkan y maka program akan memberikan output seperti ini
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/cf53750a-f550-4670-b50a-f4ddc0de9009)
 
 **c. Pilih tiga(Memeriksa Data Diri)**
+
+Program akan menampilkan Data Anggota pemilik Akun, seperti berikut ini.
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/198a49e6-a033-4529-b669-a0ee7c4ce9ce)
 
