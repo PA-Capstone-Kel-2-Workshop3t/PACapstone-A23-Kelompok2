@@ -232,6 +232,8 @@ Apabila pengguna adalah Anggota, pengguna dapat memilih angka satu(1) dengan men
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/d81a1908-89e1-477b-9a05-a42ddae6037f)
 
+meminta pengguna untuk menginput datanya sesuai kolom
+
 **c. Apabila User Kembali**
 
 Program akan mengarahkan Admin ke menu Login Program.
@@ -246,7 +248,7 @@ Pada menu utama Anggota terdapat 3 pilihan yang dapat Admin pilih sesuai kebutuh
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/41857509-c459-43ea-b787-cdc59f80adda)
 
-setelah menginputkan y maka program akan memberikan output seperti ini
+setelah menginputkan y maka program akan memberikan output seperti ini untuk memastikan apakah pengguna yakin ingin mengganti umkm yang didaftar atau tidak 
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/bd893398-5393-442a-ba25-9c923cc7404c)
 
@@ -254,13 +256,13 @@ setelah menginputkan y maka program akan memberikan output seperti ini
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/9c91cacf-05a9-4c7c-ba89-4bcc9f703c6b)
 
-setelah menginputkan y maka program akan memberikan output seperti ini
+setelah menginputkan y maka program akan memberikan output seperti ini untuk memastikan apakah pengguna yakin ingin berpindah workshop atau tidak
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/cf53750a-f550-4670-b50a-f4ddc0de9009)
 
 **c. Pilih tiga(Memeriksa Data Diri)**
 
-Program akan menampilkan Data Anggota pemilik Akun, seperti berikut ini.
+memperlihatkan biodata dari pengguna sesuai dengan id pengguna saat login
 
 ![image](https://github.com/PA-Capstone-Kel-2-Workshop3t/PACapstone-A23-Kelompok2/assets/144808370/198a49e6-a033-4529-b669-a0ee7c4ce9ce)
 
